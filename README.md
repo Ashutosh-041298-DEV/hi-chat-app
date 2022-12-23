@@ -40,9 +40,6 @@ presentation -
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Adarsh-nihal/Github-image/blob/main/overstock/Screenshot%20(1052).png?raw=true)
-
-![App Screenshot](https://github.com/Adarsh-nihal/Github-image/blob/main/overstock/Screenshot%20(1053).png?raw=true)
 ![Screenshot (58)](https://user-images.githubusercontent.com/107462328/209324560-cfe7a841-d305-49f5-98f2-d707a69ff4c3.png)
 ![Screenshot (59)](https://user-images.githubusercontent.com/107462328/209324638-06c37659-5071-46b3-86b8-8db15e7991b2.png)
 ![Screenshot (60)](https://user-images.githubusercontent.com/107462328/209324709-87e67ec5-c63c-4abe-b4b8-bd312cf8700e.png)
