@@ -23,7 +23,7 @@ function Chat({ id, users }) {
   return (
     <Container onClick={enterChat}>
       {recipientUser ? (
-        <UserAvatar src={recipient.photoURL} />
+        <UserAvatar src={recipientUser.photoURL} />
       ) : (
         <UserAvatar>{recipientEmail[0].toUpperCase()}</UserAvatar>
       )}
