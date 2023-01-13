@@ -7,11 +7,9 @@ import { auth, provider } from "../firebase";
 function Login() {
   const whatsappLogo =
     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2042px-WhatsApp.svg.png";
-
   const signIn = () => {
     signInWithPopup(auth, provider).catch(alert);
-  };
-
+  }
   return (
     <Container>
       <Head>
@@ -27,8 +25,7 @@ function Login() {
     </Container>
   );
 }
-
-export default Login;
+export default Login; 
 
 const Container = styled.div`
   display: grid;
