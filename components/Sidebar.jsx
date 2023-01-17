@@ -60,18 +60,11 @@ function Sidebar() {
         <IconsContainer>
           <IconButton>
             <ChatIcon />
-          </IconButton>
-
-          <IconButton>
+            </IconButton> <IconButton>
             <MoreVertIcon />
           </IconButton>
         </IconsContainer>
       </Header>
-
-      <Search>
-        <SearchIcon />
-        <SearchInput placeholder="Search in Chats" />
-      </Search>
 
       <SidebarButton onClick={createChat}>Start a New Chat</SidebarButton>
 
